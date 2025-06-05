@@ -2,9 +2,17 @@
 
 <h3 align="center">Backend Developer | Java | Spring Boot 🚀</h3>
 
+---
+
 ### 🕹️ Jogue Pac-Man enquanto vê meus projetos
 
-[![Play Pac-Man](https://img.shields.io/badge/Jogar-PacMan-yellow?style=for-the-badge)](https://SEU-LINK-AQUI)
+<div align="center">
+  <a href="https://joaomauro0.github.io/pacman" target="_blank">
+    <img src="https://raw.githubusercontent.com/joaomauro0/pacman/main/preview.gif" alt="Pac-Man Game" width="500" />
+  </a>
+</div>
+
+> 👾 Clique na imagem para jogar!
 
 
 ---
