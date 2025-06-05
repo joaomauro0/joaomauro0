@@ -4,19 +4,6 @@
 
 ---
 
-### 🕹️ Jogue Pac-Man enquanto vê meus projetos
-
-<div align="center">
-  <a href="https://joaomauro0.github.io/pacman" target="_blank">
-    <img src="https://raw.githubusercontent.com/joaomauro0/pacman/main/preview.gif" alt="Pac-Man Game" width="500" />
-  </a>
-</div>
-
-> 👾 Clique na imagem para jogar!
-
-
----
-
 🎓 **Formado em**: Desenvolvimento Back-End com Java pela EBAC  
 🛠️ **Cursando**: Inteligência Artificial e práticas modernas em back-end
 
@@ -72,4 +59,12 @@
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaocunhabackend/)
+
+---
+
+---
+
+### 🐍 Snake dos meus commits
+
+![snake gif](https://github.com/joaomauro0/joaomauro0/blob/output/github-contribution-grid-snake.svg)
 
