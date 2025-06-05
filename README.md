@@ -5,7 +5,7 @@
 ---
 
 🎓 **Formado em**: Desenvolvimento Back-End com Java pela EBAC  
-🛠️ **Cursando**: Inteligência Artificial e práticas modernas em back-end
+🛠️ **Concluído**: Inteligência Artificial e práticas modernas em back-end
 
 💡 Desenvolvedor com base sólida em Java e Spring Boot, focado em construir soluções eficazes e escaláveis.  
 🎯 Atualmente aprimorando minhas habilidades com segurança, autenticação, integração com front-end e deploy.
@@ -67,6 +67,7 @@
 ### 🐍 Snake dos meus commits
 
 ![snake gif](https://github.com/joaomauro0/joaomauro0/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
