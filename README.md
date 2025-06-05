@@ -66,7 +66,8 @@
 
 ### 🐍 Snake dos meus commits
 
-![snake gif](https://github.com/joaomauro0/joaomauro0/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/joaomauro0/joaomauro0/output/github-contribution-grid-snake.svg)
+
 
 
 
