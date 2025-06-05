@@ -2,6 +2,11 @@
 
 <h3 align="center">Backend Developer | Java | Spring Boot 🚀</h3>
 
+### 🕹️ Jogue Pac-Man enquanto vê meus projetos
+
+[![Play Pac-Man](https://img.shields.io/badge/Jogar-PacMan-yellow?style=for-the-badge)](https://SEU-LINK-AQUI)
+
+
 ---
 
 🎓 **Formado em**: Desenvolvimento Back-End com Java pela EBAC  
@@ -59,3 +64,4 @@
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaocunhabackend/)
+
